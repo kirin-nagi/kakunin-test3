@@ -16,7 +16,7 @@
     <form class="form" action="/register" method="get">
         @csrf
         <div class="form__group">
-            <div class="form-group-title">
+            <div class="form__group-title">
                 <span class="form__label--item">お名前</span>
             </div>
             <div class="form__group-content">
@@ -62,7 +62,7 @@
                 </div>
             </div>
             <div class="form__button">
-                <button class="form__button-submit" type="submit">次に進む</button>
+                <button class="form__button-submit" type="submit" href="/register/step2">次に進む</button>
             </div>
         </div>
     </form>

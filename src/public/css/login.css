@@ -1,1 +1,26 @@
 /*ログイン画面*/
+.login-form__heading{
+    text-align: center;
+}
+
+
+.form__group {
+    text-align: center
+}
+
+.form__button-submit {
+    width: 200px;
+    padding: 10px;
+    color: #fff;
+    margin: 15px auto 0;
+    border-radius: 10px;
+    background: linear-gradient(80deg, #734ff7, #faa0e7);
+    text-align: center;
+    display: block;
+    border: 1px solid white;
+}
+
+.register__link {
+    margin: 15px auto 0;
+    text-align: center;
+}

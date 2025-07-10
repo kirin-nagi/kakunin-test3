@@ -1,1 +1,29 @@
 /*新規登録画面 STEP2*/
+.register-form__heading {
+    text-align: center
+}
+
+.register-form__subtitle {
+    text-align: center
+}
+
+.form__group {
+    text-align: center
+}
+
+.form__button-submit {
+    width: 200px;
+    padding: 10px;
+    color: #fff;
+    margin: 15px auto 0;
+    border-radius: 10px;
+    background: linear-gradient(80deg, #734ff7, #faa0e7);
+    text-align: center;
+    display: block;
+    border: 1px solid white;
+}
+
+.login__link{
+    margin: 15px auto 0;
+    text-align: center;
+}
