@@ -1,8 +1,14 @@
 /*新規会員登録画面 STEP1*/
-.contact-form__content{
+
+.body{
+
+}
+
+.register-form__content{
     margin: 0 auto;
     padding: 30px 15px;
     max-width: 600px;
+    max-height: 700px;
 }
 
 .register-form__heading{
@@ -15,6 +21,11 @@
 
 .form__group{
     text-align: center
+}
+
+.form__label-item {
+    width: 400px;
+    text-align: right;
 }
 
 .form__button-submit{
@@ -38,15 +49,17 @@
 .form__inout--textarea textarea {
     /*display: flex;
     justify-content: space-between;*/
-    padding: 5px;
-    width: 250px;
+    padding: 10px;
+    width: 400px;
     border: 1px solid #ddd;
     border-radius: 3px;
-    background-color: rgb(236, 234, 234);
+    background-color: #fff;
 
     appearance: none;
 }
 
 .form__group-title{
+    font-weight: bold;
+    margin: 10px 10px;
     
 }

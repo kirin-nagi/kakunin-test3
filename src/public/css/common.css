@@ -1,6 +1,7 @@
 /*共通で設定するもの*/
 .body{
     background-color: linear-gradient(90deg, #ff5800, #8b00be);
+    max-width: 600px;
 }
 
 .header{
@@ -11,6 +12,6 @@
 .header__inner {
     margin: 0 auto;
     padding: 20px 15px;
-    max-width: 1230px;
+    
 }
 
