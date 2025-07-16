@@ -1,17 +1,6 @@
 /*共通で設定するもの*/
-.body{
-    background-color: linear-gradient(90deg, #ff5800, #8b00be);
-    max-width: 600px;
+body{
+    background: linear-gradient(135deg,#c7aeee, #f3b4de,#f163c7 ,#fcb55a);
+    height: 100vh;
+    margin: 0;
 }
-
-.header{
-    text-align: center;
-    color: hotpink;
-}
-
-.header__inner {
-    margin: 0 auto;
-    padding: 20px 15px;
-    
-}
-

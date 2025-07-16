@@ -1,14 +1,31 @@
 /*ログイン画面*/
 .login-form__heading{
     text-align: center;
+    font-family: serif;
+    font-size: 30px;
+    color: hotpink;
+}
+
+.login-form__subtitle {
+    text-align: center;
+    font-size: 20px;
+    font-family: serif;
 }
 
 .login-form__content {
-    margin: 0 auto;
-    padding: 30px 15px;
-    max-width: 600px;
-    max-height: 700px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px 15px;
+    max-width: 500px;
+    max-height: 100vh;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 50px;
 }
+
+
 
 
 .form__group {

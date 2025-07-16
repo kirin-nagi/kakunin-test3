@@ -8,6 +8,9 @@
 @section('content')
 <div class="login-form__content">
     <div class="login-form__heading">
+        <h1>PiGly</h1>
+    </div>
+    <div class="login-form__subtitle">
         <h2>ログイン</h2>
     </div>
     <form class="form"action="/login" method="post" >

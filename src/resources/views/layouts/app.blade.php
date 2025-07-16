@@ -10,12 +10,6 @@
     @yield('css')
 </head>
 <body>
-    <header class="header">
-        <div class="header__inner">
-            Pigly
-        </div>
-    </header>
-
 
     <main>
         @yield('content')

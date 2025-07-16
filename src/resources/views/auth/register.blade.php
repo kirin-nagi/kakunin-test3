@@ -8,9 +8,12 @@
 @section('content')
 <div class="register-form__content">
     <div class="register-form__heading">
-        <h2>新規会員登録</h2>
+        <h2>PiGly</h2>
     </div>
     <div class="register-form__subtitle">
+        <h2>新規会員登録</h2>
+    </div>
+    <div class="register-form__subtitle2">
         <h3>STEP1 アカウント情報の登録</h3>
     </div>
     <form class="form" action="/register" method="get">
