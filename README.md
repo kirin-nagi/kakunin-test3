@@ -35,6 +35,29 @@
 
 
 
+<h3>github環境構築</h3>
+<br>
+
+1,git clone git@github.com:kirin-nagi/kakunin-test3.git
+<br>
+
+2,cd リポジトリ名
+<br>
+
+3,git remote set-url origin git@github.com:kirin-nagi/リポジトリ名.git
+<br>
+
+4,git add .
+<br>
+
+5,git commit -m "リモートリポジトリの変更"
+<br>
+
+6,git push origin main
+<br>
+
+
+
 
 
 <h2>使用技術</h2>　
