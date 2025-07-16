@@ -49,7 +49,7 @@
             </div>
         </div>
         <div class="form__button">
-            <button class="form__button-submit" type="submit">アカウント作成</button>
+            <button class="form__button-submit" type="submit href=/weight_logs">アカウント作成</button>
         </div>
     </form>
 </div>
